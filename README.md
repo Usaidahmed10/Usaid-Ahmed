@@ -10,6 +10,6 @@
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/usaid-ahmed)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/usaid-ahmed](https://www.linkedin.com/in/usaid-ahmed-2149422a2))  
 
 </div>
