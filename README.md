@@ -3,7 +3,7 @@
 
 # Hi there 👋, I'm Usaid Ahmed!
 
-👨‍🎓 **CS Sophomore @ University of Alberta** | 🎓 **4.0 GPA**  
+👨‍🎓 **Honours CS Sophomore @ University of Alberta** | 🎓 **4.0 GPA**  
 💡 Exploring **AI, Neural Networks, and Data Science**  
 🚀 **Full Stack Developer** | Building solutions that bridge the gap between innovation and impact.
 
