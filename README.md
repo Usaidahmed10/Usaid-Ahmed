@@ -5,7 +5,7 @@
 
 👨‍🎓 **CS Sophomore @ University of Alberta** | 🎓 **4.0 GPA**  
 💡 Exploring **AI, Neural Networks, and Data Science**  
-🚀 Building solutions that bridge the gap between innovation and impact.  
+**🚀 Building solutions that bridge the gap between innovation and impact. ** 
 
 ---
 
