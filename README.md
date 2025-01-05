@@ -11,7 +11,8 @@
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/usaid-ahmed-2149422a2)
-[![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail)](mailto:usaid1@ualberta.ca)
+[![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail&logoColor=red)](mailto:usaid1@ualberta.ca)
+
 
  
 
