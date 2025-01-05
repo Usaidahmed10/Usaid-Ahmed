@@ -1,8 +1,4 @@
 
-To make your GitHub profile's README.md content center-aligned, you can use HTML tags because GitHub's Markdown supports basic HTML. Here's a center-aligned version of the content using <div align="center">:
-
-markdown
-Copy code
 <div align="center">
 
 # Hi there 👋, I'm Usaid Ahmed!
